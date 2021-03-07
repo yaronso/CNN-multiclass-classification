@@ -1,4 +1,4 @@
-# CNN---multiclass-classification
+# CNN - multiclass-classification
 
 Model’s architecture:
 I chose to create CNN model which consists of 4 convolution layers, such that at each layer I used the
